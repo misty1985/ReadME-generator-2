@@ -3,12 +3,12 @@ function generateMarkdown(data) {
   # ${data.title}
   # ${data.Description}
   # ${data.TableofContents}
-  # ${answers.Installations}
-  # ${answers.Usage}
-  # ${answers.License}
-  # ${answers.Contributors}
-  # ${answers.Tests}
-  # ${answers.Questions}
+  # ${data.Installations}
+  # ${data.Usage}
+  # ${data.License}
+  # ${data.Contributors}
+  # ${data.Tests}
+  # ${data.Questions}
   
   `;
 }

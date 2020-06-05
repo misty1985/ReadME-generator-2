@@ -1,7 +1,10 @@
 # ReadME-generator-2
 A generator for ReadME's for your repository
 
+Badges
+------
 
+[![GitHub issues](https://img.shields.io/github/issues/misty1985/ReadME-generator-2?color=purple&logoColor=green)](https://github.com/misty1985/ReadME-generator-2/issues)
 
 HW instructions
 ---------------
